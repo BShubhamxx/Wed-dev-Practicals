@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="student.xsl"?>
+
+<tns:info xmlns:tns="http://www.example.org/student" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.example.org/studentstudent.xsd ">
+
+<tns:Student id="0">
+    <tns:name>Shubham Bodhane</tns:name>
+    <tns:address>pune</tns:address>
+    <tns:email>shubham123@gmail.com</tns:email>
+    <tns:contact>9087657890</tns:contact>
+</tns:Student>
+
+<tns:Student id="1">
+    <tns:name>prashant bhambare</tns:name>
+    <tns:address>pune</tns:address>
+    <tns:email>shubham123@gmail.com</tns:email>
+    <tns:contact>9087657890</tns:contact>
+</tns:Student>
+
+<tns:Student id="2">
+    <tns:name>udayan gaikwad</tns:name>
+    <tns:address>pune</tns:address>
+    <tns:email>shubham123@gmail.com</tns:email>
+    <tns:contact>9087657890</tns:contact>
+</tns:Student>
+
+</tns:info>

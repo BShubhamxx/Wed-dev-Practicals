@@ -1,0 +1,7 @@
+<!ELEMENT info (Student+)>
+<!ELEMENT Student (name, address, email, contact)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT address (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT contact (#PCDATA)>
+<!ATTLIST Student id ID #REQUIRED>
